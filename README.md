@@ -1,7 +1,9 @@
 # Smart_Library
+Description:
+This application depicts a Library Managemnet System, allowing the user to check in/check out books.
 
-Description
+Basic Structure:
+It makes use of Files, data structures like Linked List and uses Generic Quick Sort and Generic Binary Search algorithms
 
-How does it work?
-
-Additional Help
+Additional Help :
+anushadas110@gmail.com
