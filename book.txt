@@ -1,0 +1,28 @@
+2,70280528,Physics Rules,Nikki Bootland,9/18/2017,Physics,Puce
+3,74750724,Fundamentals of physics,Jedidiah Fellgett,10/26/2005,Physics,Blue
+4,68659300,Gamer Physics,Abbie Readman,9/14/2010,Physics,Fuscia
+5,46282620,Physics to Gear,Gunter Smalcombe,11/20/2012,Physics,Yellow
+6,80295926,Basic Physics,Cathleen Roantree,6/27/2015,Physics,Fuscia
+7,47158997,Advance Physics,Haily Donett,3/29/2004,Physics,Khaki
+8,29963387,Physics involvement,Skip Pistol,4/17/2013,Physics,Blue
+9,392313910,physics fundamentals,Delly Atwood,7/19/2014,Physics,Maroon
+11,60039175,Introductory Chemistry,Beckie Grinyov,5/24/2008,Chemistry,Khaki
+12,66414270,NCERT Xtract,Sandye Olin,9/18/2011,Chemistry,Fuscia
+13,66974331,Foundation of Chemistry,Nathalie Simione,6/10/2002,Chemistry,Violet
+14,99325637,Synthetic Chemistry,Hilliard Adrian,8/2/2002,Chemistry,Blue
+15,33338585,Applied Chemistry,King Teissier,1/8/2017,Chemistry,Pink
+16,79027217,Organic Chemistry,Luelle Sandon,9/11/2006,Chemistry,Maroon
+17,59633074,Applied chemistry,Rebeka Gallardo,3/25/2006,Chemistry,Yellow
+18,96532660,Chemistry A,Karyl Bergeau,10/18/2018,Chemistry,Yellow
+19,27021100,Industry Chemistory,Austen Swyer-Secey,9/18/2009,Chemistry,Teal
+20,34433,mybook,gurvinder,math,2018, 
+20,83123177,Philosopy Chemistry,Alphonse Burstowe,1/11/2003,Chemistry,Fuscia
+21,43381385,Sets Relation and groups,Gabie Seebert,2/4/2005,Mathematics,Red
+22,34180382,calculus,Rozalie Prendergrast,12/7/2010,Mathematics,Yellow
+23,77892828,Mathematics Standard Level,Rora Munnion,6/8/2017,Mathematics,Yellow
+24,42770828,Finicial Mathematics,Lily Leverton,8/18/2011,Mathematics,Yellow
+25,64140898,Fundamental Mathematics,Michaelina Elam,11/11/2015,Mathematics,Purple
+26,79449287,Additional Math,Atalanta Prescote,10/28/2013,Mathematics,Puce
+27,52245612,Dynamic Math,Neddie Shelper,5/24/2004,Mathematics,Crimson
+28,49682055,Level A Math,Raquel Ruddell,12/13/2009,Mathematics,Khaki
+29,90569914,Fundaments of Mathematics,Zora Phillput,6/11/2004,Mathematics,Maroon

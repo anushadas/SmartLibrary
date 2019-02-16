@@ -1,0 +1,16 @@
+
+public class   DataOperator<T>{
+
+
+
+	
+	
+    
+	
+
+
+}//
+	
+
+
+
